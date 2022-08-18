@@ -24,7 +24,7 @@ const header = {
       name: 'Landing Page',
       description:
         'In todays world landing page is requirement of every business to grab the users, so as a portfolio project I created awesome responsive looking landing page with call to action or subscribe option at the bottom',
-      stack: ['React', 'HTML 5', 'CSS 3',"Node js"],
+      stack: ['REACT', 'HTML 5', 'CSS 3',"NODE JS"],
       // sourceCode: 'https://github.com',
       livePreview: 'https://foodielover.netlify.app/#',
     },
@@ -32,7 +32,7 @@ const header = {
       name: 'Weather App',
       description:
         'It is an API based web application in which data is obtained from open weather api and used to provide details as search by the user. Web Application is fully responsive',
-      stack: ['React', 'API', "HTML 5","CSS 3", "Node js"],
+      stack: ['REACT', 'API', "HTML 5","CSS 3", "NODE JS"],
       // sourceCode: 'https://github.com',
       livePreview: 'https://weatheralerts.netlify.app/',
     },
@@ -40,17 +40,17 @@ const header = {
       name: 'Blog App',
       description:
         'Blogposts appear with the author name and date of post and anyone with knowing code can post using Hygraph dashboard because it is build using Next js with Hygraph (previous name GraphCMS). Its fully responsive and very fast',
-      stack: ['Next js', 'Tailwind CSS', 'React', "Hygraph"],
+      stack: ['NEXT JS', 'TAILWIND CSS', 'REACT', "HYGRAPH CMS"],
       //sourceCode: 'https://github.com',
       livePreview: 'https://israrblog.netlify.app/',
     },
     {
-      name: 'Project 4',
+      name: 'Ecommerce App',
       description:
-        'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-      stack: ['SASS', 'TypeScript', 'React'],
+        'It is responive Ecommerce web application with sanity.io integrated that enable to change Products, pricing and description easily with knowing to code. For call to action email is also given at the bottom',
+      stack: ['NEXT JS', 'REACT', 'SANITY.IO', "HTML", "CSS"],
       //sourceCode: 'https://github.com',
-      livePreview: '#',
+      livePreview: 'https://electroecommerce.vercel.app/',
     },
     {
       name: 'Project 5',
@@ -61,7 +61,7 @@ const header = {
       livePreview: '#',
     },
     {
-      name: 'Project 6',
+      name: 'Coming Soon',
       description:
         'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
       stack: ['SASS', 'TypeScript', 'React'],
