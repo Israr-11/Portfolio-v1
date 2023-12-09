@@ -1,15 +1,15 @@
-import { header } from '../../Portfolio'
-import Navbar from '../Navbar/Navbar'
-import './Header.css'
+import { header } from "../../Portfolio";
+import Navbar from "../Navbar/Navbar";
+import "./Header.css";
 
 const Header = () => {
-  const { homepage, title } = header
+  const { homepage, title } = header;
 
   return (
-    <header className='header center'>
+    <header className="header center">
       <h3>
         {homepage ? (
-          <a href="#home" className='link'>
+          <a href="#home" className="link">
             React
           </a>
         ) : (
@@ -18,7 +18,7 @@ const Header = () => {
       </h3>
       <Navbar />
     </header>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
